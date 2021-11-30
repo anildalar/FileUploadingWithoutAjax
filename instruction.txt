@@ -1,0 +1,45 @@
+FILE Uploading
+
+With Page Reload
+
+Client ---- FILE -----> Server
+
+File
+    1. Photo
+    2. Pdf
+    3. Mp3
+    4. Video
+
+
+action == Kaha
+method == Kese
+
+For File Uploading
+1. FORM Method must be "POST"
+2. FORM Must have enctype="multipart/form-data" attribute
+3. Form must have a input type file
+
+
+$_* Super Global Variable
+
+HTML Tag
+
+pre formatted tag
+<pre></pre>
+
+
+Associative Array 
+
+Key => Value
+
+To access the File
+
+$_FILES
+
+
+array 
+    key => array
+            Key => Value
+
+
+./  = Current Folder
